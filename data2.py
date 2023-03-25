@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import openpyxl
+
 
 # Set the title of the web page
 st.title('Learner Data Analysis')
